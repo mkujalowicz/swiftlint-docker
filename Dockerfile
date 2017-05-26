@@ -1,4 +1,4 @@
-FROM norionomura/sourcekit:302
+FROM norionomura/sourcekit:311
 MAINTAINER Maciej Kujalowicz <maciej.kujalowicz@gmail.com>
 
 # Environment Variables
