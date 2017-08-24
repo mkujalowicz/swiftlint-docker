@@ -3,7 +3,7 @@ MAINTAINER Maciej Kujalowicz <maciej.kujalowicz@gmail.com>
 
 # Environment Variables
 
-ENV SWIFTLINT_REVISION="0aa93380e7a7fb0ef5c5d516892a8a6f3941f304" \
+ENV SWIFTLINT_REVISION="e8112184430baafef8f3e03e9dc1e28bdf519001" \
     SWIFTLINT_BUILD_DIR="/swiftlint_build" \
     LINT_WORK_DIR="/swiftlint"
 
